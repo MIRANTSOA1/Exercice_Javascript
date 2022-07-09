@@ -13,3 +13,5 @@ app.get("/hello", function(req, res) {
 
 app.listen(http_port);
 console.log("Listening on " + http_port);
+
+//const{fonction} = require("./lib/mirantsoa/exo-1"); 
